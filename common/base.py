@@ -114,5 +114,3 @@ if __name__ == '__main__':
     time.sleep(2)
     # 关闭
     base.close_browser()
-    base.close_browser()
-    base.close_browser()
